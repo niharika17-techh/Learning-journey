@@ -1,0 +1,2 @@
+Today I learned how to add new files to my repository.
+I am getting familier with commit message and the Github interface
