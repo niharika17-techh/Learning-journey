@@ -1,0 +1,3 @@
+Day 1- GitHub Start 
+Today I created my first Github repository.
+I learned What a repository and README file are.
